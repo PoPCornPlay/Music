@@ -1,12 +1,12 @@
-[1]-нерпы все в адидасах
+[1]-negri vse pidori
 
 [2]-pi pi
 
 [3]-I like move it
 
-[4]-Киношка
+[4]-Kinoshka
 
-[5]-я мистер достать
+[5]-mister dostat chlen
 
 [6]-fuck yeah
 
@@ -20,6 +20,5 @@
 
 [11]-Erika
 
-[12]-Зомбиапокалипсис
-
-[13]- киношка(Remix)
+[12]-Zombiapocalypsis
+[13]- Kinoshka(Remix)
